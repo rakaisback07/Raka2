@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Add your authentication logic here
 
-    if (/* Your authentication logic */) {
+    if (Raka = pass/* Your authentication logic */) {
         // Successful login, redirect or perform other actions
         header("Location: welcome.php"); // Change "welcome.php" to your desired destination
         exit();
